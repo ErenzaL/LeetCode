@@ -24,4 +24,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1908-recyclable-and-low-fat-products](https://github.com/ErenzaL/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 | [1948-rearrange-products-table](https://github.com/ErenzaL/LeetCode/tree/master/1948-rearrange-products-table) |
 | [2024-calculate-special-bonus](https://github.com/ErenzaL/LeetCode/tree/master/2024-calculate-special-bonus) |
+| [3910-find-books-with-no-available-copies](https://github.com/ErenzaL/LeetCode/tree/master/3910-find-books-with-no-available-copies) |
 <!---LeetCode Topics End-->
