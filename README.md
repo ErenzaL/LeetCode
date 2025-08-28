@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0196-delete-duplicate-emails](https://github.com/ErenzaL/LeetCode/tree/master/0196-delete-duplicate-emails) |
 | [0577-employee-bonus](https://github.com/ErenzaL/LeetCode/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/ErenzaL/LeetCode/tree/master/0584-find-customer-referee) |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/ErenzaL/LeetCode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/ErenzaL/LeetCode/tree/master/0595-big-countries) |
 | [0607-sales-person](https://github.com/ErenzaL/LeetCode/tree/master/0607-sales-person) |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/ErenzaL/LeetCode/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
