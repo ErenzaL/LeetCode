@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/ErenzaL/LeetCode/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1179-game-play-analysis-i](https://github.com/ErenzaL/LeetCode/tree/master/1179-game-play-analysis-i) |
 | [1258-article-views-i](https://github.com/ErenzaL/LeetCode/tree/master/1258-article-views-i) |
+| [1301-reformat-department-table](https://github.com/ErenzaL/LeetCode/tree/master/1301-reformat-department-table) |
 | [1415-students-and-examinations](https://github.com/ErenzaL/LeetCode/tree/master/1415-students-and-examinations) |
 | [1664-find-users-with-valid-e-mails](https://github.com/ErenzaL/LeetCode/tree/master/1664-find-users-with-valid-e-mails) |
 | [1670-patients-with-a-condition](https://github.com/ErenzaL/LeetCode/tree/master/1670-patients-with-a-condition) |
